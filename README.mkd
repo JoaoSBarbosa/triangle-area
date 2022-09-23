@@ -1,0 +1,20 @@
+
+
+## Algoritmo em Java para calcular a área de um triangulo. ☕🧩
+
+
+
+##### Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas válidas). Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triângulos possui a maior área. 
+
+
+
+- Função **Triangle** {
+
+  - Método: **area**() {
+
+    Para calcular a área do triangulo
+
+  }
+
+}
+
